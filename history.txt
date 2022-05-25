@@ -1,0 +1,356 @@
+    1  code .
+    2  git reset
+    3  nano bash_profile
+    4  nano bash_profile
+    5  python -V
+    6  git config --global user.name "tpnko"
+    7  py -V
+    8  alias
+    9  Set-Alias -Name "python3" -Value "py"
+   10  Alias -Name "python3" -Value "py"
+   11  -Name "python3" -Value "py"
+   12  git Set-Alias -Name "python3" -Value "py"
+   13  git --help
+   14  pwd
+   15  alias
+   16  touch .bashrc
+   17  nano .bashrc
+   18  source .bashrc
+   19  alias
+   20  python3 --version
+   21  py --version
+   22  touch .bash_aliases
+   23  nano .bash_aliases
+   24  nano .bashrc
+   25  source .bashrc
+   26  alias
+   27  python3 --version
+   28  code .
+   29  code .
+   30  cd src
+   31  code .
+   32  code .
+   33  ls
+   34  cat pom.xml
+   35  clear
+   36  code .
+   37  code .
+   38  javac Client.java
+   39  java Client.java
+   40  javac Client.java
+   41  java Client.java
+   42  javac Client.java
+   43  java Client.java
+   44  java Client.java
+   45  java Client.java
+   46  java Client.java
+   47  git clone git@gitlab.wethinkco.de:smzizi021/robotworldclientserver.git
+   48  mkdir Group_Robot_World
+   49  cd Group_Robot_World/
+   50  ssh-keygen
+   51  cd ~/.ssh
+   52  ls
+   53  cat ~/.ssh/id_rsa.pub
+   54  ssh -T git@gitlab.wethinkcode.co.za
+   55  ssh -T git@gitlab.wethinkcode.co.za
+   56  cd ..
+   57  ls
+   58  cd Desktop/Group_Robot_World/
+   59  git clone git@gitlab.wethinkco.de:smzizi021/robotworldclientserver.git
+   60  cat id_rsa.pub
+   61  cat id_rsa.pub
+   62  ~/.ssh
+   63  cd ~/.ssh
+   64  cat id_rsa.pub
+   65  ssh -T git@gitlab.wethinkcode.co.za
+   66  git clone git@gitlab.wethinkco.de:smzizi021/robotworldclientserver.git
+   67  git config --list
+   68  git config user.email "tp.nkosi28@gmail.com"
+   69  git config --global user.email "tp.nkosi28@gmail.com"
+   70  git config --list
+   71  ssh -keygen
+   72  ssh-keygen
+   73  cd ~/.ssh
+   74  ls
+   75  cat id_rsa.pub
+   76  cat ~/.ssh/id_rsa.pub
+   77  ssh -T git@gitlab.wethinkcode.co.za
+   78  cd
+   79  cd Desktop/Group_Robot_World/
+   80  git clone git@gitlab.wethinkco.de:smzizi021/robotworldclientserver.git
+   81  ls
+   82  cd robotworldclientserver/
+   83  git branch
+   84  git checkout -b rectangle_and_square_obstacles
+   85  git status
+   86  git status
+   87  git branch
+   88  git add .
+   89  git commit -m "structure for obstacles"
+   90  git push
+   91  git push --set-upstream origin rectangle_and_square_obstacles
+   92  git branch
+   93  git pull
+   94  git switch main
+   95  git branch
+   96  git add .
+   97  code .
+   98  git commit -m "Update repository"
+   99  git push
+  100  git switch main
+  101  git pull
+  102  git branch
+  103  git switch rectangle_and_square_obstacles
+  104  code .
+  105  code .
+  106  code .
+  107  git status
+  108  ls
+  109  cd robotworldclientserver/
+  110  git status
+  111  git add .
+  112  git commit -m "done"
+  113  git push
+  114  git switch main
+  115  git switch rectangle_and_square_obstacles
+  116  git clone https://github.com/tpnkosi/tpnkosi.git
+  117  code .
+  118  cd tpnkosi/
+  119  code .
+  120  mkdir Umuzi
+  121  cd Umuzi
+  122  git config --local user.email "tp.nkosi28@gmail.com"
+  123  git status
+  124  git status
+  125  ls
+  126  git pull
+  127  git status
+  128  git branch
+  129  code .
+  130  ls
+  131  cd ..
+  132  ls
+  133  ls
+  134  cd How_repo_projects_work/
+  135  ls
+  136  code .
+  137  ls
+  138  cd robotworldclientserver/
+  139  git status
+  140  git log
+  141  git pull
+  142  git log
+  143  git --config user.list
+  144  git -c
+  145  git remote
+  146  clear
+  147  git clone https://gitlab.wethinkcode.co.za/thunkosi021/submission-102-java-004-toy_robot.git
+  148  ls
+  149  git config --list
+  150  git init
+  151  cd .ssh
+  152  cd .ssh/
+  153  cd /.ssh
+  154  whereis .ssh
+  155  cd
+  156  cd .ssh/
+  157  cat id_rsa.pub 
+  158  clear
+  159  cd
+  160  cd Desktop/
+  161  cd Umuzi
+  162  ls
+  163  cd How_repo_projects_work/
+  164  ls
+  165  git remote -v
+  166  cd
+  167  git clone git@github.com:Umuzi-org/Thulile-Nkosi-606-tilde-project-tutorial-how-repo-projects-work-.git
+  168  ls
+  169  cd Desktop/
+  170  cd Umuzi
+  171  ls
+  172  cd ..
+  173  ls
+  174  git clone git@github.com:Umuzi-org/Thulile-Nkosi-606-tilde-project-tutorial-how-repo-projects-work-.git
+  175  cd ..
+  176  ls /Home
+  177  ls home
+  178  cd
+  179  cd .ssh/
+  180  pwd
+  181  cat id_rsa.pub 
+  182  cd
+  183  cd
+  184  cd Desktop/Umuzi
+  185  ls
+  186  git clone git@github.com:Umuzi-org/Thulile-Nkosi-606-tilde-project-tutorial-how-repo-projects-work-.git
+  187  ls
+  188  cd Thulile-Nkosi-606-tilde-project-tutorial-how-repo-projects-work-/
+  189  ls
+  190  git branch how_repo_projects_work_continuation
+  191  git switch how_repo_projects_work_continuation 
+  192  git branch
+  193  code .
+  194  git status
+  195  git add .
+  196  git commit -m "Who to add to PR"
+  197  git push
+  198  git push --set-upstream origin how_repo_projects_work_continuation
+  199  git push --set-upstream origin how_repo_projects_work_continuation
+  200  git config --list
+  201  cd..
+  202  cd ..
+  203  cd ../..
+  204  cd Desktop/Umuzi
+  205  cd ../..
+  206  man ls
+  207  man
+  208  man man
+  209  cd Desktop/
+  210  cd Umuzi
+  211  ls
+  212  ls /
+  213  cd
+  214  ls
+  215  cd Desktop/Umuzi
+  216  clear
+  217  ls
+  218  ls /
+  219  clear
+  220  code .
+  221  ls
+  222  cd ..
+  223  ls
+  224  git clone git@github.com:tpnkosi/LEVEL-0-CODING-CHALLENGES.git
+  225  ls
+  226  cd LEVEL-0-CODING-CHALLENGES/
+  227  touch Task1.js
+  228  code .
+  229  ls
+  230  cd ..
+  231  ls
+  232  rm Leve;_
+  233  cd Level_0_Coding_Challenge/
+  234  ls
+  235  cd ..
+  236  rm Level_0_Coding_Challenge
+  237  rmdir Level_0_Coding_Challenge
+  238  rmdir -r Level_0_Coding_Challenge
+  239  rm -r Level_0_Coding_Challenge
+  240  rmdir --help
+  241  rm --help
+  242  rm -r Level_0_Coding_Challenge
+  243  rmdir Level_0_Coding_Challenge
+  244  rmdir -r Level_0_Coding_Challenge
+  245  rm Level_0_Coding_Challenge
+  246  rm -r Level_0_Coding_Challenge
+  247  cd ..
+  248  rm -r Level_0_Coding_Challenge
+  249  rm --help
+  250  rm -f Level_0_Coding_Challenge
+  251  rmdir -f Level_0_Coding_Challenge
+  252  rm -d Level_0_Coding_Challenge
+  253  rm -v Level_0_Coding_Challenge
+  254  rm -R Level_0_Coding_Challenge
+  255  ls
+  256  cd LEVEL-0-CODING-CHALLENGES/
+  257  ls
+  258  code .
+  259  code .
+  260  cd ..
+  261  ls
+  262  rmdir
+  263  rmdir Level_0_Coding_Challenge/
+  264  clear
+  265  ls
+  266  clear
+  267  git clone git@github.com:Umuzi-org/Thulile-Nkosi-219-level-1-programming-katas-javascript.git
+  268  cd Thulile-Nkosi-219-level-1-programming-katas-javascript/
+  269  code .
+  270  cd ..
+  271  ls
+  272  git clone git@github.com:Umuzi-org/Thulile-Nkosi-223-person-javascript.git
+  273  ls
+  274  cd Thulile-Nkosi-223-person-javascript/
+  275  code .
+  276  ls
+  277  cd Level_0_Coding_Challenge/
+  278  ls
+  279  cd ..
+  280  rmdir Level_0_Coding_Challenge/
+  281  clear
+  282  ls
+  283  cd How_repo_projects_work/
+  284  ls
+  285  rm important.md 
+  286  cd ..
+  287  rmdir How_repo_projects_work/
+  288  rm -r How_repo_projects_work/
+  289  clear
+  290  ls
+  291  cd LEVEL-0-CODING-CHALLENGES/
+  292  ls
+  293  code .
+  294  cd ..
+  295  ls
+  296  cd Thulile-Nkosi-219-level-1-programming-katas-javascript/
+  297  code .
+  298  cd ..
+  299  ls
+  300  cd Thulile-Nkosi-223-person-javascript/
+  301  clear
+  302  code .
+  303  ls
+  304  mkdir git-basic-exercises
+  305  cd git-basic-exercises/
+  306  ls -a
+  307  git init
+  308  ls -a
+  309  git status
+  310  touch README.md
+  311  ls -a
+  312  git status
+  313  git log
+  314  git add .
+  315  git status
+  316  git --restore README.md
+  317  git reset -soft master
+  318  git reset --soft master
+  319  git log
+  320  git commit -m "initial commit"
+  321  git log
+  322  nano README.md
+  323  cat README.md
+  324  git status
+  325  git add .
+  326  git status
+  327  git commit -m "second commit"
+  328  nano README.md 
+  329  cat README.md 
+  330  git status
+  331  git add .
+  332  git commit -m "third commit"
+  333  git log
+  334  git checkout 44833817f40c23bab3345de39e240dae67f31ae9
+  335  cat README.md 
+  336  git checkout main
+  337  git checkout master
+  338  cat README.md 
+  339  git branch
+  340  git branch milkshake-flavours
+  341  git branch
+  342  git checkout milkshake-flavours lkshake-flavours
+  343  git checkout milkshake-flavours
+  344  git branch
+  345  nano milkshakes.md
+  346  git status
+  347  git add .
+  348  git commit -m "added initial flavours"
+  349  git log
+  350  git checkout master
+  351  git log
+  352  git branch history
+  353  git switch history
+  354  git log
+  355  git branch
+  356  history > history.txt
