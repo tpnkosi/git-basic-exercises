@@ -1,0 +1,500 @@
+   45  cd /usr/bin/ssh
+   46  cd /usr/bin/
+   47  ls
+   48  ls -a
+   49   /.ssh
+   50   .ssh
+   51  cat ~/,ssh/id_rsa_pub
+   52  which .ssh
+   53  clear
+   54  which .ssh
+   55  which ssh
+   56  cd /usr/bin/.ssh
+   57  cat /usr/bin/.ssh
+   58  cd ~/.ssh
+   59  ls
+   60  cat id_rsa.pub
+   61  clear
+   62  cd
+   63  clear
+   64  ls
+   65  cd Documents/
+   66  cd Umuzi/
+   67  ls
+   68  git clone git@github.com:tpnkosi/LEVEL-0-CODING-CHALLENGES.git
+   69  ls
+   70  cd LEVEL-0-CODING-CHALLENGES/
+   71  git config --local user.email "tp.nkosi28@gmail.com"
+   72  git config --list
+   73  code .
+   74  code .
+   75  cd ..
+   76  git clone git@github.com:Umuzi-org/Thulile-Nkosi-219-level-1-programming-katas-javascript.git
+   77  ls
+   78  cd Thulile-Nkosi-219-level-1-programming-katas-javascript/
+   79  code .
+   80  cd ..
+   81  rm -r Thulile-Nkosi-219-level-1-programming-katas-javascript/
+   82  ls
+   83  clear
+   84  git clone git@github.com:Umuzi-org/Thulile-Nkosi-219-level-1-programming-katas-javascript.git
+   85  cd Thulile-Nkosi-219-level-1-programming-katas-javascript/
+   86  git config --local user.email "tp.nkosi28@gmail.com"
+   87  git config --list
+   88  code .
+   89  cd ..
+   90  git clone git@github.com:Umuzi-org/Thulile-Nkosi-184-assertive-programming-kata-javascript.git
+   91  git congif --local user.email "tp.nkosi28@gmail.com"
+   92  git config --local user.email "tp.nkosi28@gmail.com"
+   93  ls
+   94  cd Thulile-Nkosi-184-assertive-programming-kata-javascript/
+   95  git config --local user.email "tp.nkosi28@gmail.com"
+   96  git branch -a
+   97  git switch remotes/origin/morsecode
+   98  git switch origin/morsecode
+   99  git checkout remotes/origin/morsecode
+  100  git branch
+  101  code .
+  102  git switch main
+  103  clear
+  104  git branch
+  105  git branch -a
+  106  git checkout morsecode
+  107  git branch
+  108  code .
+  109  code .
+  110  cd ..
+  111  git clone git@github.com:Umuzi-org/Thulile-Nkosi-224-animals-part-1-oop-basics-javascript.git
+  112  ls
+  113  cd Thulile-Nkosi-224-animals-part-1-oop-basics-javascript/
+  114  git config --local user.email "tp.nkosi28@gmail.com"
+  115  git branch -a
+  116  git checkout Animals
+  117  code .
+  118  clear
+  119  cd ..
+  120  cd ..
+  121  mkdir bootcamp
+  122  cd bootcamp
+  123  touch whileloop.py
+  124  code .
+  125  ls
+  126  touch students.txt
+  127  cd ..
+  128  cd ..
+  129  cd Downloads/
+  130  ls
+  131  cd 18_jhb_physical-20220805T120103Z-001
+  132  code .
+  133  ls
+  134  mkdir test
+  135  cd test/
+  136  touch test.py
+  137  names.txt
+  138  code .
+  139  touch names.txt
+  140  ls
+  141  cd ..
+  142  ls
+  143  rmdir -r test
+  144  rm -r test
+  145  ls
+  146  clear
+  147  cd Downloads/
+  148  ls
+  149  cd 18_jhb_physical-20220805T120103Z-001
+  150  clear
+  151  ls
+  152  code .
+  153  cd Downloads/
+  154  ls
+  155  cd ..
+  156  cd Documents/
+  157  cd Web_Dev/
+  158  ls
+  159  cd ..
+  160  mkdir CoderByte
+  161  rm /Web_Dev/codebyte.js /Coderbyte/codebyte.js
+  162  cd Documents/
+  163  ls
+  164  cd Umuzi/
+  165  ls
+  166  cd Thulile-Nkosi-184-assertive-programming-kata-javascript/
+  167  code .
+  168  cd ..
+  169  ls
+  170  cd Thulile-Nkosi-224-animals-part-1-oop-basics-javascript/
+  171  git branch
+  172  code .
+  173  code .
+  174  cd Documents/
+  175  ls
+  176  cd Umuzi/
+  177  ls
+  178  mkdir npm_demo
+  179  cd npm_demo/
+  180  npm init
+  181  ls
+  182  npm install jasmine
+  183  ls
+  184  code .
+  185  clear
+  186  mkdir my_jasmine_goodies
+  187  cd my_jasmine_goodies/
+  188  npm init
+  189  ls
+  190  cat package.json
+  191  npm add jasmine
+  192  ls
+  193  cat package.json
+  194  npx jasmine init
+  195  ls
+  196  cat package.json
+  197  npx jasmine examples
+  198  ls
+  199  code package.json
+  200  git init
+  201  ls
+  202  touch .gitignore
+  203  touch README.md
+  204  ls
+  205  clear
+  206  git remote add origin git@github.com:tpnkosi/thulile_nkosi.git
+  207  git remote
+  208  git status
+  209  git add .
+  210  git commit -m "Initial commit"
+  211  git config --list user.email "tp.nko
+  212  git config --local user.email "tp.nkosi28@gmail.com"
+  213  git config --list
+  214  git commit -m "Initial commit"
+  215  git push -u origin master
+  216  git config --list
+  217  code .
+  218  git config --global user.name "thulilenkosi"
+  219  clear
+  220  git log
+  221  git config --list
+  222  git add .
+  223  git commit -m "Clean up"
+  224  git push
+  225  cd ..
+  226  cd ..
+  227  cd Umuzi/
+  228  ls
+  229  cd Thulile-Nkosi-184-assertive-programming-kata-javascript/
+  230  code .
+  231  cd Documents/
+  232  cd Umuzi/
+  233  ls
+  234  cd ..
+  235  ls
+  236  cd Personal/
+  237  ls
+  238  cd portfolio_site/
+  239  ls
+  240  code .
+  241  code .
+  242  cd ..
+  243  mkdir Portfolio
+  244  cd Portfolio
+  245  mkdir asserts
+  246  cd asserts/
+  247  mkdir img
+  248  touch favicon.io
+  249  mv favicon.io favicon.ico
+  250  ls
+  251  cd ..
+  252  mkdir css
+  253  cd css/
+  254  touch index.css
+  255  cd ..
+  256  mkdir js
+  257  cd js/
+  258  touch index.js
+  259  cd ..
+  260  touch index.html
+  261  touch README.md
+  262  code .
+  263  ls
+  264  touch .gitignore
+  265  ls
+  266  ls -a
+  267  clear
+  268  exit
+  269  cd Documents/Umuzi/
+  270  ls
+  271  cd Thulile-Nkosi-224-animals-part-1-oop-basics-javascript/
+  272  code .
+  273  cd ..
+  274  ls
+  275  cd Thulile-Nkosi-184-assertive-programming-kata-javascript/
+  276  code .
+  277  cd Documents/student_work/brownfields/fei_fei_li/
+  278  code .
+  279  code .
+  280  code .
+  281  code .
+  282  ls
+  283  code .
+  284  cd ..
+  285  ls
+  286  mkdir portfolio
+  287  cd Portfolio
+  288  ls
+  289  cd ..
+  290  mkdir site
+  291  cd site
+  292  code .
+  293  ls
+  294  touch index.html
+  295  touch .gitignore
+  296  touch README.md
+  297  git init
+  298  git remote add origin git@github.com:tpnkosi/Mukuru.git
+  299  git status
+  300  git branch -M main
+  301  git branch
+  302  git push -u origin main
+  303  git add .
+  304  git commit -m "Initial commit"
+  305  git config --local user.email tp.nkosi28@gmail.com
+  306  git commit -m "Initial commit"
+  307  git branch -a
+  308  git push -u origin main
+  309  clear
+  310  code .
+  311  cd ..
+  312  ls
+  313  mkdir Budget_App
+  314  cd Budget_App/
+  315  cd ..
+  316  cd Mukuru/
+  317  git pull
+  318  ls
+  319  npx create-react-app financial-education --use-npm
+  320  npm start
+  321  clear
+  322  ls
+  323  cd financial-education/
+  324  ls
+  325  code .
+  326  npx create-react-app NAME OF APP --use-npm
+  327  npx create-react-app budget-app --use-npm
+  328  clear
+  329  npx create-react-app budget-app
+  330  cd budget-app/
+  331  npm start
+  332  code .
+  333  code .
+  334  code .
+  335  code .
+  336  npm start
+  337  clear
+  338  code .
+  339  npm start
+  340  ls
+  341  cd Doc
+  342  cd Documents/
+  343  touch practice
+  344  cd practive
+  345  cd practice
+  346  cd practice 
+  347  ls
+  348  rm practice
+  349  mkdir practice
+  350  cd practice/
+  351  touch practice.js
+  352  code .
+  353  git@github.com:Umuzi-org/HappyAnza-Magoma-625-validate-a-south-african-id-number-javascript.git
+  354  git clone git@github.com:Umuzi-org/HappyAnza-Magoma-625-validate-a-south-african-id-number-javascript.git
+  355  code .
+  356  code .
+  357  ls
+  358  cd ..
+  359  ls
+  360  cd Reviews/
+  361  ls
+  362  cd HappyAnza-Magoma-625-validate-a-south-african-id-number-javascript/
+  363  code .
+  364  code .
+  365  code .
+  366  ls
+  367  git clone git@gitlab.wethinkco.de:thunkosi021/submission-webdev-exercise.git
+  368  git config --list
+  369  git config --local user.email "thunkosi021@student.wethinkcode.co.za"
+  370  ls
+  371  cd submission-webdev-exercise/
+  372  git config --local user.email "thunkosi021@student.wethinkcode.co.za"
+  373  git config --list
+  374  clear
+  375  sqlite3
+  376  sqlite3
+  377  sqlite3
+  378  sqlite3 --version
+  379  sqlite3 -V
+  380  touch Campus.db
+  381  sqlite3 Campus.db
+  382  sqlite3
+  383  clear
+  384  sqlite3
+  385  clear
+  386  sqlite3
+  387  sqlite3
+  388  code .
+  389  node.js
+  390  node --v
+  391  node -V
+  392  node -v
+  393  code .
+  394  code .
+  395  code .
+  396  mkdir tech_ass
+  397  cd tech_ass/
+  398  touch tech.js
+  399  code .
+  400  code .
+  401  cd ..
+  402  ls
+  403  cd Thulile-Nkosi-184-assertive-programming-kata-javascript/
+  404  code .
+  405  cd Documents/Umuzi/
+  406  ls
+  407  cd Documents/
+  408  ls
+  409  cd practice/
+  410  code .
+  411  cd Documents/practice/
+  412  code .
+  413  sqlite3
+  414  cd Documents/
+  415  ls
+  416  cd Umuzi/
+  417  ls
+  418  mkdir Simple-Calculator_Part_1
+  419  cd Simple-Calculator_Part_1/
+  420  npm init
+  421  clear
+  422  code .
+  423  ls
+  424  git clone git@gitlab.wethinkco.de:kkungwan021/husain-essop.git
+  425  ls
+  426  cd husain-essop/
+  427  code .
+  428  cd ..
+  429  cd WeThinkCode_/
+  430  ls
+  431  cd student_work/
+  432  ls
+  433  cd husain-essop/
+  434  git cofig --locat user.email "thunkosi021.student.wethinkcode.co.za"
+  435  git config --locat user.email "thunkosi021.student.wethinkcode.co.za"
+  436  git config --local user.email "thunkosi021.student.wethinkcode.co.za"
+  437  git config --local user.name "Thulile Nkosi"
+  438  git config --list
+  439  clear
+  440  which .ssh
+  441  whereis .ssh
+  442  clear
+  443  whereis ./ssh
+  444  which ./ssh
+  445  which /ssh
+  446  which ssh
+  447  cd /usr/bin/ssh
+  448  cd /usr/bin/
+  449  ls
+  450  clear
+  451  cat ./ssh
+  452  cd /usr/bin/
+  453  cd ssh
+  454  cd .ssh
+  455  cd ./ssh
+  456  ls
+  457  cs ssh
+  458  cat id_rsa.pub
+  459  which ssh
+  460  cd /usr/bin/ssh
+  461  cd /usr/bin/
+  462  clear
+  463  cd
+  464  cd Documents/Umuzi/
+  465  ls
+  466  ls Thulile-Nkosi-224-animals-part-1-oop-basics-javascript/
+  467  code .
+  468  cd Thulile-Nkosi-224-animals-part-1-oop-basics-javascript/
+  469  code .
+  470  code .
+  471  cd Documents/
+  472  ls
+  473  cd practice/
+  474  ls
+  475  code .
+  476  cd Documents/practice/
+  477  code .
+  478  code .
+  479  cd Documents/
+  480  ls
+  481  cd practice/
+  482  ls
+  483  code practice.js
+  484  cd Documents/Umuzi/
+  485  ls
+  486  git clone 
+  487  git@github.com:Umuzi-org/Thulile-Nkosi-273-simple-calculator-part-1-javascript.git
+  488  git clone git@github.com:Umuzi-org/Thulile-Nkosi-273-simple-calculator-part-1-javascript.git
+  489  ls
+  490  cd Thulile-Nkosi-273-simple-calculator-part-1-javascript/
+  491  ls
+  492  cd ..
+  493  code Thulile-Nkosi-273-simple-calculator-part-1-javascript/
+  494  git remote -v
+  495  cd Thulile-Nkosi-273-simple-calculator-part-1-javascript/
+  496  git remote -v
+  497  git config --local user.email tp.nkosi28@gmail.com
+  498  git config --local user.name Thulile Nkosi
+  499  git config --list
+  500  clear
+  501  cd Documents/
+  502  cd Umuzi/
+  503  ls
+  504  git clone git@github.com:tpnkosi/git-basic-exercises.git
+  505  ls
+  506  code git-basic-exercises/
+  507  ls -a
+  508  cd git-basic-exercises/
+  509  ls -a
+  510  git log
+  511  git reset --hard 149e666115442e54dba902d215739d0a737c2d6f
+  512  git log
+  513  git reset --hard 6ef37608950f24cdefa37ad8d4a1b2f5de179b20
+  514  clear
+  515  git log
+  516  nano README.md
+  517  cat README.md
+  518  git status
+  519  git add .
+  520  git commit -m "second commit"
+  521  git config --local user.email "tp.nkosi28@gmail.com"
+  522  git commit -m "second commit"
+  523  git status
+  524  git add .
+  525  git commit -m "third commit"
+  526  git log
+  527  git checkout 5de85fabe9fa1ea1441fc02f22adae289c021215
+  528  cat README.md
+  529  git checkout main
+  530  cat README.md
+  531  git branch
+  532  git branch milkshake-flavours
+  533  git branch
+  534  git switch milkshake-flavours 
+  535  nano milkshakes.md
+  536  git status
+  537  git add .
+  538  git commit -m "added initial flavours"
+  539  git log
+  540  git switch main
+  541  git checkout -b history
+  542  git log
+  543  git branch
+  544  history > history.txt
